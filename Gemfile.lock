@@ -169,6 +169,3 @@ DEPENDENCIES
   rspec-rails (= 2.0.0)
   searcher (= 0.0.4)
   sqlite3-ruby
-
-METADATA
-  version: 1.0.6
